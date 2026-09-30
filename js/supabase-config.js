@@ -10,7 +10,7 @@ const SUPABASE_ANON_KEY = "sb_publishable_ffzwIQAO7hdJJCfiMyw8HA_5bkUi29y";
 if (!window.supabase) {
   console.error("No se pudo cargar la biblioteca de Supabase.");
 } else if (
-  SUPABASE_URL === "https://grihgerwujhshpidnzrs.supabase.co/rest/v1/" ||
+  SUPABASE_URL === "https://grihgerwujhshpidnzrs.supabase.co" ||
   SUPABASE_ANON_KEY === "sb_publishable_ffzwIQAO7hdJJCfiMyw8HA_5bkUi29yY"
 ) {
   console.warn(
