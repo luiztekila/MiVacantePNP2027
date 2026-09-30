@@ -4,7 +4,7 @@
   Supabase Dashboard > Project Settings > API
   Usa Project URL y la clave publicable/anon (NUNCA service_role).
 */
-const SUPABASE_URL = "https://grihgerwujhshpidnzrs.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://grihgerwujhshpidnzrs.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_ffzwIQAO7hdJJCfiMyw8HA_5bkUi29y";
 
 if (!window.supabase) {
