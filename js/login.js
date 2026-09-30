@@ -20,14 +20,10 @@ formLogin.addEventListener("submit", async (evento) => {
   evento.preventDefault();
   limpiarMensaje();
 
-  if (
-    !window.supabaseClient ||
-    SUPABASE_URL === "grihgerwujhshpidnzrs" ||
-    SUPABASE_ANON_KEY === "sb_secret_gomgU9c0GVn1KZyfRywU7A_AjrYp6Ub"
-  ) {
-    mostrarMensaje(
-      "Primero configura la URL y la clave pública de Supabase en js/supabase-config.js.",
-    );
+ if (!window.supabaseClient ||
+      SUPABASE_URL === "PEGA_AQUI_TU_PROJECT_URL" ||
+      SUPABASE_ANON_KEY === "PEGA_AQUI_TU_PUBLISHABLE_O_ANON_KEY") {
+    mostrarMensaje("Primero configura la URL y la clave pública de Supabase en js/supabase-config.js.");
     return;
   }
 
