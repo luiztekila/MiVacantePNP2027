@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulador PNP - Área de estudiantes</title>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="shield">PNP</div>
+    <div>
+      <h1>SIMULADOR PNP</h1>
+      <span>Preparación para Escuela de Suboficiales</span>
+    </div>
+    <div class="sesion-bar"><span id="usuarioSesion">Sesión iniciada</span><button id="btnCerrarSesion" class="btn-cerrar-sesion" type="button">Cerrar sesión</button></div>
+  </div>
+</header>
+
+<main class="container">
+  <section id="pantallaTemas" class="card">
+    <div class="hero">
+      <h2>Simulador de examen por temas</h2>
+      <p>Selecciona una materia para comenzar tu práctica.</p>
+    </div>
+
+    <div id="listaTemas" class="grid-temas"></div>
+
+    <div class="config">
+      <label for="cantidad">Cantidad de preguntas:</label>
+      <select id="cantidad">
+        <option value="10">10 preguntas</option>
+        <option value="20" selected>20 preguntas</option>
+        <option value="30">30 preguntas</option>
+        <option value="50">50 preguntas</option>
+        <option value="100">100 preguntas</option>
+        <option value="todas">Todas las disponibles</option>
+      </select>
+    </div>
+  </section>
+
+  <section id="pantallaExamen" class="card oculto">
+    <div class="exam-header">
+      <div>
+        <span id="nombreTema" class="badge"></span>
+        <h2 id="tituloPregunta"></h2>
+      </div>
+      <div class="stats">
+        <span>Pregunta <b id="numeroPregunta">1</b>/<b id="totalPreguntas">20</b></span>
+        <span>Buenas: <b id="buenas">0</b></span>
+        <span>Malas: <b id="malas">0</b></span>
+      </div>
+    </div>
+
+    <div class="progress">
+      <div id="barraProgreso"></div>
+    </div>
+
+    <div id="alternativas" class="alternativas"></div>
+
+    <div id="mensajeRespuesta" class="mensaje oculto"></div>
+
+    <div class="acciones">
+      <button id="btnAnterior" class="btn secundario">Anterior</button>
+      <button id="btnResponder" class="btn principal">Responder</button>
+      <button id="btnSiguiente" class="btn principal">Siguiente</button>
+    </div>
+
+    <div class="acciones secundarias">
+      <button id="btnVerRespuesta" class="btn advertencia">Ver respuesta</button>
+      <button id="btnRepasarMalas" class="btn peligro oculto">Repasar malas</button>
+      <button id="btnFinalizar" class="btn finalizar">Finalizar</button>
+    </div>
+  </section>
+
+  <section id="pantallaResultado" class="card oculto">
+    <div class="resultado">
+      <h2>Resultado del examen</h2>
+      <div class="resultado-numero" id="porcentaje">0%</div>
+      <p id="resumenResultado"></p>
+
+      <div class="resultado-grid">
+        <div><strong id="resBuenas">0</strong><span>Correctas</span></div>
+        <div><strong id="resMalas">0</strong><span>Incorrectas</span></div>
+        <div><strong id="resTotal">0</strong><span>Total</span></div>
+      </div>
+
+      <div class="acciones">
+        <button id="btnNuevoExamen" class="btn principal">Nuevo examen</button>
+        <button id="btnVolverTemas" class="btn secundario">Volver a temas</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  Simulador de estudio PNP · Uso educativo
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/supabase-config.js"></script>
+<script src="js/auth.js"></script>
+<script src="js/bancos.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

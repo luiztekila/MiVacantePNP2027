@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b3d2e">
+  <title>Acceso de estudiantes | Simulador PNP</title>
+  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/login.css">
+</head>
+<body class="login-body">
+  <header class="topbar">
+    <div class="brand">
+      <div class="shield">PNP</div>
+      <div>
+        <h1>SIMULADOR PNP</h1>
+        <span>Preparación para Escuela de Suboficiales</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="login-container">
+    <section class="login-card">
+      <div class="login-emblema" aria-hidden="true">PNP</div>
+      <p class="login-eyebrow">PLATAFORMA DE ESTUDIO</p>
+      <h2>Iniciar sesión</h2>
+      <p class="login-intro">Ingresa con las credenciales de tu cuenta para acceder al simulador.</p>
+
+      <form id="formLogin" autocomplete="on">
+        <label for="correo">Correo electrónico</label>
+        <input id="correo" name="email" type="email" placeholder="alumno@correo.com"
+               autocomplete="username" required>
+
+        <label for="contrasena">Contraseña</label>
+        <div class="password-wrap">
+          <input id="contrasena" name="password" type="password" placeholder="Escribe tu contraseña"
+                 autocomplete="current-password" required>
+          <button type="button" id="btnMostrar" class="mostrar-password" aria-label="Mostrar contraseña">Mostrar</button>
+        </div>
+
+        <div id="mensajeLogin" class="login-message oculto" role="alert"></div>
+        <button id="btnIngresar" type="submit" class="btn-login">
+          <span id="textoIngresar">INGRESAR</span>
+        </button>
+      </form>
+
+      <p class="login-help">¿No tienes una cuenta? Comunícate con el administrador de la plataforma.</p>
+    </section>
+  </main>
+
+  <footer>Simulador de estudio PNP · Uso educativo</footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/supabase-config.js"></script>
+  <script src="js/login.js"></script>
+</body>
+</html>
