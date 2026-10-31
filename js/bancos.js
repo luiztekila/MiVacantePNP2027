@@ -1620,14 +1620,806 @@ e) Indira Gandhi
 (Respuesta: b)
 `,
 
-  "Ejemplo - Agrega tu banco": `
-1. Esta es una pregunta de ejemplo. Reemplaza este banco por tus propias preguntas.
-a) Alternativa A
-b) Alternativa B
-c) Alternativa C
-d) Alternativa D
-e) Alternativa E
+  "RV - Oraciones incompletas": `
+01. El desarrollo del lenguaje y del pensamiento se implican mutuamente; en ese sentido, el lenguaje debe ser ........ con el cual el maestro ........ la inteligencia y el pensamiento del niño.
+a) el mejor medio - programe
+b) el importante objeto - eduque
+c) el principal instrumento - desarrolle
+d) el adecuado mecanismo - edifique
+e) el método – levante
+(Respuesta: c)
+
+02. Nadie se ha movido, únicamente el… ha … sobre los rostros una luz directa
+a) ángel - dibujado
+b) patrón - dirigido
+c) sol - lanzado
+d) saber - difundido
+e) profeta - impreso
+(Respuesta: c)
+
+03. La noción de ........ implica el manejo de dos o más lenguas que históricamente pueden o no estar relacionadas.
+a) monolingüismo
+b) gramática
+c) lengua materna
+d) lingüística
+e) bilingüismo
+(Respuesta: e)
+
+04. Era rebelde por naturaleza, nada podía contenerla) Antes de un mes ya había ........ prácticamente todas las normas del internado.
+a) infligido
+b) transgredido
+c) combatido
+d) roto
+e) ignorado
+(Respuesta: b)
+
+05. Hay que evitar hablar utilizando frases muy largas que a veces se ........ hasta el punto de tener que ........ de un modo más sencillo.
+a) olviden - recordarlas
+b) complique - repartirlas
+c) enreden - revisarlas
+d) recarguen - descargarlas
+e) confundan - corregirlas
+(Respuesta: c)
+
+06. Mientras no sepamos su ........, no podemos hacer una reconstrucción de los hechos que sea adecuadamente ........
+a) versión - veraz
+b) verdad - auténtica
+c) visión - recreada
+d) parte - equilibrada
+e) concepción - integral
 (Respuesta: a)
+
+07. Si dividiéramos la historia de la Tierra en veinticuatro horas, la vida habría aparecido recién a la 13:45 hs. Es más, el hombre habría aparecido 15 segundos antes de la medianoche) Es por eso que el hombre es un........ en ........
+a) bebé - la historia del cosmos
+b) invitado - la historia universal
+c) recién llegado - la evolución de la vid
+d) nuevo - el desarrollo del planeta
+e) cachimbo – la universidad de la prehistoria
+(Respuesta: c)
+
+08. Es la ........ la que tiene el don de ........ la ........
+a) consistencia – revivir - amargura
+b) verdad – vencer - mentira
+c) obesidad – vencer – sobrecarga
+d) juventud – anticipar - amargura
+e) vida – enseñar - sabiduría
+(Respuesta: b)
+
+09. Cada vez que ... algún peligro, se ... en los lugares más insospechables.
+a) presentía - paseaba
+b) intuía - imaginaba
+c) rechazaba - quedaba
+d) superaba - refugiaba
+e) advertía - escondía
+(Respuesta: e)
+
+10. Luego de ... minutos de juego, la ... comenzó a hacer estragos en los jugadores ... .
+a) varios - cancha - novatos
+b) suficientes - certeza profesionales
+c) algunos – barra – visitantes
+d) setenta – altura - costeños
+e) muchos – preocupación-más cautos
+(Respuesta: d)
+
+11. Al irse acortando el ... fijado, su prisa iba aumentando proporcionalmente.
+a) acuerdo
+b) día
+c) plazo
+d) horario
+e) término
+(Respuesta: c)
+
+12. La ... cultural del país se manifiesta en la coexistencia de ... en el territorio.
+a) homogeneidad - costumbres complementarias.
+b) unidad - ciudades similares
+c) uniformidad - los mismos idiomas
+d) pluralidad - diversas tradiciones
+e) similaridad - varios grupos étnicos
+(Respuesta: d)
+
+13. Todos tenemos ... de habitar en un ambiente ... equilibrado.
+a) necesidad - planificadamente
+b) el deber – socialmente
+c) la creencia – moralmente
+d) el derecho – ecológicamente
+e) la aspiración - económicamente
+(Respuesta: d)
+
+14. La función primordial de los medios de comunicación social consiste en ... al público sobre los hechos significativos, por muy ... o desconcertantes que sean.
+a) educar - alienantes
+b) informar - desagradables
+c) socializar - privados
+d) motivar - fantásticos
+e) favorable - diferentes
+(Respuesta: b)
+
+15. Su actitud ... fue la razón de que los proyectos se ... .
+a) negativa - concretaran
+b) decidida - entramparan
+c) diligente - realizaran
+d) contraria - impulsaran
+e) favorable - difirieran
+(Respuesta: c)
+
+16. El caso era tan ... que una solución ... era inminente.
+a) sencillo - satisfactoria
+b) reciente - negociada
+c) enredado - rápida
+d) extraño - insólita
+e) enmarañado – abstrusa
+(Respuesta: a)
+
+17. La modificación de la ... era una medida ... por la ciudadanía.
+a) ley – esperada
+b) norma – ubicada
+c) regla – auspiciada
+d) idea – superada
+e) palabra - clamada
+(Respuesta: a)
+
+18. Durante largos años había ... equivocado, pero ese detalle de pronto le ... la verdad.
+a) sido – mostró
+b) persistido – enseñó
+c) estado – ocultó
+d) permanecido – reveló
+e) mantenido - describió
+(Respuesta: d)
+
+19. Las autoridades se negaban a ........ el ........ para trasladarse.
+a) concederle - permiso
+b) negarse - hecho
+c) sí mismos - permiso
+d) creerles - índole
+e) homenajearles - permiso
+(Respuesta: a)
+
+20. La colaboración solidaria entre los científicos del mundo tiene un ........ en el constante seguimiento de los movimientos de los planetas y estrellas.
+a) sistema
+b) límite
+c) reto imposible
+d) buen ejemplo
+e) problema
+(Respuesta: d)
+
+21. La crianza de los hijos debería ser una experiencia ........ y asumida por la .........
+a) maravillosa – convivencia
+b) fecunda – mujer
+c) maternal - esposa
+d) compartida – pareja
+e) bipartida - dupla
+(Respuesta: d)
+
+22. La conciencia y el pensamiento, que nos parecen tan ........, solo son productos de un órgano material corporal: ........
+a) eficientes - la materia
+b) evidentes - el espíritu
+c) complementarios - la neurona
+d) trascendentales - el cerebro
+e) fundamentales.- el corazón
+(Respuesta: d)
+
+23. Solo hay una forma de demostrar que no es ........ de ......... Lo que se desea hacer.
+a) incapaz - hacer
+b) apto - realizar
+c) hábil - profundizar
+d) competente - practicar
+e) bueno - ejecutar
+(Respuesta: a)
+
+24. De tristeza profunda por tu partida, vertí lágrimas que ........ de mis ojos como el arroyo de la ........
+a) caían.- cordillera
+b) bajaban - lluvia
+c) salía.-.loma
+d) descendían.-.montaña
+e) brotaban.-.nube
+(Respuesta: d)
+
+25. Un equipo de sonido es de mayor… en la medida en que reproduzca la música lo más ........ que se pueda y reducir al mínimo el… propio de la grabación.
+a) costo – fielmente - sonido
+b) calidad – propiamente - problema
+c) fidelidad – nítidamente – ruido
+d) nitidez – originalmente – desgaste
+e) aceptación – nítidamente - deterioro
+(Respuesta: c)
+
+26. Las personas no son piezas mecánicas; por eso, no tiene sentido esperar del ........ de un sistema – formado por aquellas –que se desenvuelva como una de esas piezas.
+a) mantenimiento
+b) proceso
+c) funcionamiento
+d) acontecer
+e) cumplimiento
+(Respuesta: c)
+
+27. El tiempo es, según algunos filósofos, la ……… donde bordamos las tonterías de nuestra vida.
+a) manta
+b) malla
+c) costura
+d) prenda
+e) maraña
+(Respuesta: a)
+
+28. Los grupos ........ reaccionaron frente a la apertura ........ y provocaron la crisis ........ que condujo al golpe militar.
+a) minoritarios - reaccionaría -laboral
+b) levantistas - del juicio –legalista
+c) dominados - capitalista -nacionalista
+d) oligárquicos - democrática -política
+e) armados – imperialista –estratégica
+(Respuesta: d)
+
+29. Aunque los ........ habían hecho repetidamente las advertencias del caso, las autoridades encargadas del asunto poco o nada hicieron para ........ el desastre.
+a) adivinos.- anticipar
+b) técnicos.-.prevenir
+c) sismólogos - paliar
+d) especialistas - preanteceder
+e) anunciantes.- evitar
+(Respuesta: b)
+
+30. En América Latina, los ........ no supieron servir de vehículo, de ........ entre el poder de los españoles y los indios durante y después de la conquista.
+a) curacas – información
+b) caciques - explotación
+c) criollos – comunicación
+d) intendentes - mestizaje
+e) burgueses - enlace
+(Respuesta: c)
+
+31. Lo que mató al expedicionario perdido en el desierto fue ........ más que el hambre, pues aunque le encontraron algunos mendrugos estaba totalmente ........
+a) el cansancio - extenuado
+b) la herida - desangrado
+c) infección - contraído
+d) la sed – seco
+e) la dolencia - tieso
+(Respuesta: d)
+
+32. Los ........ pueden recurrir a dos métodos para estudiar la muerte de las ........: la construcción de modelos ........ y la observación .........
+a) teólogos – deidades - espirituales – desinteresada
+b) médicos – personas -anatómicos - atenta
+c) astrónomos – estrellas – matemáticos - directa
+d) economistas – financieros exactos – acuciosa
+e) sociólogos – sociedades - ideales – sociología
+(Respuesta: c)
+
+33. Muchos estudiantes universitarios confiesan que el verdadero motivo por el que siguen una determinada carrera es que hacerlo le proporcionará........; parece pues, que la vocación más espléndida es .........
+a) un título – el trabajo
+b) placer - no hacer nada
+c) cierto estatus-la ambición
+d) dinero-la del enriquecimiento
+e) conocimiento – las de las ciencias naturales
+(Respuesta: d)
+
+34. La primera gran revolución que se produjo en la ........humana tuvo lugar al inventarse la ......... La cual posibilitó la fijación de lo que antes se perdía irremediablemente.
+a) especie – rueda
+b) economía – moneda
+c) ciencia – numeración
+d) comunicación – escritura
+e) navegación - brújula
+(Respuesta: d)
+
+35. ¡Qué…..…es esta……….! Dijo al percatarse de que no había en ella…. significativas.
+a) lamentable – composición - imágenes
+b) demagoga - señora - propuesta
+c) completa – antología - omisiones
+d) dificultosa – monografía – ideas
+e) delirante – exposición - obras
+(Respuesta: c)
+
+36. En aquella región casi desértica ........ era un recurso sumamente escaso, el cual debía ser administrado con mucho cuidado para alcanzar a cubrir, en lo posible, la demanda de todos los .........
+a) el dinero - sectores
+b) la gasolina – transportistas
+c) el agua – agricultores
+d) el líquido - veraneantes
+e) la leche - infantes
+(Respuesta: c)
+
+37. La primera........ con que nos ........ al intentar redactar es decidir el tema sobre el que … a escribir.
+a) traba - chocamos - iríamos
+b) dificultad - encontramos –vamos
+c) aclaración- topamos – fuimos
+d) idea- hallamos – llegaríamos
+e) observación – enfrentamos – llegamos
+(Respuesta: b)
+
+Usa el código con precaución.
+38. Las ciudades están llenándose con las corrientes ........ de habitantes de los campos que esperan encontrar una vida mejor en las áreas........
+a) campesinos – pobladas
+b) motivacionales – construidas
+c) marginales - rurales
+d) migratorias – urbanas
+e) vagabundas - pobres
+(Respuesta: d)
+39. ¡Pero si no…! La bala le atravesó el … de parte a parte, con lo que su… fue instantánea) Por lo tanto, fue más un acto de caridad que de maldad.
+a) sufrió – cráneo - muerte
+b) sintió - orificio - reacción
+c) percibió - hoyo – fallecimiento
+d) agonizó – corazón – epitafio
+e) deliró - pulmón - mortandad
+(Respuesta: a)
+
+40. ¿Acaso nada lo inmuta? Hemos sido testigo de algo que arrancaría la risa del hombre más triste; y él, ........, parece no........
+a) sin embargo - reconocerla
+b) luego - percibirlo
+c) empero - enterarse
+d) pero - acatarlo
+e) mas no - aceptarlo
+(Respuesta: c)
+
+41. El hombre vive siempre desconfiado de la relatividad de las cosas, siempre ansioso de aferrarse a verdades........ que le inspiren........
+a) absolutas - seguridad
+b) científicas - desconfianza
+c) totales - claridad
+d) lacónicas - confianza
+e) perennes - mejor ánimo
+(Respuesta: a)
+
+42. Quien afirma algo ........ creyéndolo ........ en realidad no miente) El mentiroso, para ser tal tiene plena intención de hacer creer a los demás algo que él sabe que no es ........
+a) falso - falso - real
+b) verdadero- verdadero - cierto
+c) falso – verdadero - cierto
+d) falso – verdadero - mentira
+e) verdadero - falso - correcto
+(Respuesta: c)
+
+43. El especialista encontró una… que lo asombró por completo en el (la) ........ Era la primera vez que se observaba eso en un mamífero.
+a) novedad - tiburón
+b) rareza - pingüino
+c) deformidad - delfín
+d) aleta - foca
+e) cola - ballena
+(Respuesta: c)
+
+44. El peligro de ........ excesivamente a una persona es que pueda volverse ........
+a) querer - engreída
+b) estimar – petulante
+c) alabar - pedante
+d) culpar – culpable
+e) engolar - altruista
+(Respuesta: c)
+
+45. El verdadero ........ corresponde al que preserva vidas, no al que las ........
+a) heroísmo - destruye
+b) premio – acaba
+c) mérito - vitupera
+d) éxito – termina
+e) humanismo - investiga
+(Respuesta: a)
+
+46. Las ideas que nos hacemos del mundo son cada vez más ...... y por medio de las ciencias podemos descubrir lo que ........
+a) relativas - desconocemos
+b) claras – imaginábamos
+c) exactas – ignoramos
+d) fecundas - proyectamos
+e) complejas - investigamos
+(Respuesta: c)
+
+47. El… es la acción que no exige que se sancione al responsable con la intención de ........ a la sociedad.
+a) delito – proteger
+b) genocidio – amparar
+c) soborno - purificar
+d) aborto – ayudar
+e) terrorismo - escudar
+(Respuesta: a)
+
+48. Conocer todo aquello que los antiguos sabían sobre el mundo antes que nosotros puede convertirnos en ........ pero no necesariamente en ........
+A filósofos - pensadores
+b) maestros - educadores
+c) investigadores - peritos
+d) historiadores - sabios
+e) eruditos - científicos
+(Respuesta: d)
+
+49. La bohemia puede ser útil, a condición de que el jinete........ no deje que se........ su potro.
+a) sobrio – modere
+b) auténtico – desenfrene
+c) incipiente - perturbe
+d) intrépido - desboque
+e) idóneo - disloque
+(Respuesta: d)
+
+50. ........ es aquella persona que no mantiene la correspondencia entre lo que dice y hace.
+a) Incoherente
+b) Insólita
+c) Impía
+d) Absurdo
+e) Inestable
+(Respuesta: a)
+
+51. A veces lloraba y, en el ..., el fuego negro de sus ojos recrudecía con…. terribles.
+a) lloriqueo - risas
+b) suceder – flamas
+c) ímpetu – formas
+d) día – ojos
+e) llanto - destellos
+(Respuesta: e)
+
+52. En opinión de algunos médicos, la función de estos no solo debe limitarse a ........ la llegada de la muerte, sino que debería extenderse a mejorar la ........de vida.
+a) evitar – expectativa
+b) prolongar – calidad
+c) posponer - atención
+d) alejar – facultad
+e) desterrar – capacidad
+(Respuesta: b)
+
+53. La ... gente de mi tierra se dejó ... ; en poco tiempo el farsante reunió la cuarta parte de la suma que había imaginado.
+a) imbécil – persuadir
+b) inocente – robar
+c) astuta – engañar
+d) ingenua – embaucar
+e) cándida - comprar
+(Respuesta: d)
+
+54. La guerra ha recrudecido, de esta manera se ha provocado el acrecentamiento del número de ... y de ciudades ... .
+a) batallas - enemigas
+b) soldados - destruidas
+c) víctimas - heridas
+d) víctimas - opositoras
+e) muertos - derruidas
+(Respuesta: e)
+
+55. No debo fiarme del ... que en la vida del hombre es como un rayo ... , cual heraldo que lleva el mensaje de la proximidad de la muerte.
+a) destino - efímero
+b) amor - iluso
+c) odio - furioso
+d) tiempo - fugaz
+e) triunfo - pasajero
+(Respuesta: e)
+
+56. Aunque no era frecuente, tuvo una semana muy activa; por ello, después del intenso ... tomó un reparador ...
+a) ahínco - reposo
+b) esmero - viaje
+c) estudio - sueño
+d) trabajo - descanso
+e) esfuerzo - paseo
+(Respuesta: d)
+
+57. La ... se ha convertido en un rasgo natural del humano y como tal, también tiene su ... ya que “un paso” adelante está el desenfreno.
+a) justicia - importancia
+b) paz - ventaja
+c) filantropía - crueldad
+d) paciencia - límite
+e) tranquilidad - fin
+(Respuesta: d)
+
+58. La ... fue totalmente suya debido a su típico acto de ... .
+a) desdicha - imprudencia
+b) destrucción - descuido
+c) obligación - desidia
+d) culpa - negligencia
+e) responsabilidad - suspicacia
+(Respuesta: d)
+
+59. Si a toda acción le sigue una reacción de igual ... , entonces no injuries si no quieres terminar ... .
+a) fuerza - mal
+b) calidad - ofendido
+c) magnitud - agraviado
+d) intensidad - asesinado
+e) condición - angustiado
+(Respuesta: c)
+
+60. Cometió ... y, por lo tanto, al ofender con su actitud el decoro de tan severo juez en el ... de sus funciones, fue apresado.
+a) blasfemia - instante
+b) prevaricato - encargo
+c) desacato - ejercicio
+d) infracción - cumplimiento
+e) agravio – acto
+(Respuesta: c)
+
+61. Ser modernos es encontrarnos en un ... que nos promete aventuras, poder, alegría, crecimiento, transformación de nosotros y del mundo y que, al mismo tiempo, amenaza con ... todo lo que tenemos, todo lo que sabemos, todo lo que somos.
+a) mundo - tener
+b) entorno - destruir
+c) contexto - crear
+d) lugar - lograr
+e) sitio - perder
+(Respuesta: b)
+
+62. De todo cuanto se ha escrito, lo más ... es aquel que el autor ha escrito con su propia sangre) El que escribe con el corazón, exterioriza su ... , devela su alma.
+a) importante - cuerpo
+b) esencial - fama
+c) valioso - espíritu
+d) necio - fuerza
+e) profundo - salud
+(Respuesta: c)
+
+63. Las lecturas ... están llenas de fantasías que ... a sus incipientes procesos intelectuales.
+a) pueriles - desconciertan
+b) escolares - ocasionan
+c) infantiles - cautivan
+d) estudiantes - destacan
+e) universitarios - aleccionan
+(Respuesta: c)
+
+64. En las viejas páginas de la historia encontramos que algunos pueblos tienen motivos para ... y hay quienes, por el contrario, los tienen para ... .
+a) ufanarse - evolucionar
+b) abatirse - desarrollarse
+c) agobiarse - sobresalir
+d) vanagloriarse - encumbrarse
+e) humillarse - enorgullecerse
+(Respuesta: d)
+
+65. Hacía mucho tiempo que se conocía las ruinas, pero su valor ... sólo se hizo evidente cuando un eminente ... anunció el descubrimiento.
+a) histórico - arqueólogo
+b) arqueológico - egiptólogo
+c) patriótico - histórico
+d) científico - antropólogo
+e) sociológico - arqueólogo
+(Respuesta: a)
+
+66. La industria genera toneladas de ... que contaminan constantemente los océanos, matando así la última posibilidad de ... humana.
+a) contaminantes - supervivencia
+b) deshechos - existencia
+c) desechos - supervivencia
+d) residuos - vida
+e) basura - eternidad
+(Respuesta: c)
+
+67. Sé ... está pasando por un momento de gran tensión emocional; hasta la más simple de las ... podría parecerle un craso insulto.
+a) sagaz - ironías
+b) temerario - burlas
+c) juicioso - blasfemias
+d) prudente - guasas
+e) sensato - injurias
+(Respuesta: e)
+
+68. En el silencio de la noche, los soldados aguardaban la ... del teniente para atacar el ... del bando enemigo.
+a) orden - fortín
+b) estratagema - botín
+c) indicación - país
+d) insinuación - refugio
+e) señal - alcázar
+(Respuesta: a)
+
+69. El campeón golpeaba con insistencia al ... , pero un descuido, le obligó ... a tener que ceder su corona.
+a) pugilista - infelizmente
+b) contrincante - inevitablemente
+c) enemigo - desafortunadamente
+d) retador - finalmente
+e) boxeador - últimamente
+(Respuesta: b)
+
+70. Le ... la idea de un triunfador, por ello nunca cedía ante la ...
+a) instruyeron - desgracia
+b) inculcaron - adversidad
+c) dieron - desdicha
+d) aleccionaron - preocupación
+e) enseñaron - hecatombe
+(Respuesta: b)
+
+71. El ... , sin percatarse había dejado innumerables ... en las lunas, los vasos y otros objetos de vidrio, circunstancia que ayudó a ubicarlo.
+a) cómplice - rastros
+b) delincuente - huellas
+c) encubridor - pruebas
+d) coautor - marcas
+e) asesino - indicios
+(Respuesta: b)
+
+72. El ... una vez más implantó un tributo muy elevado, generando ... en la población.
+a) déspota - desconcierto
+b) anarquista - preocupación
+c) autócrata - molestia
+d) monarca - aprobación
+e) tirano - indignación
+(Respuesta: e)
+
+73. El templo se llenaba de falsos creyentes, pues miraban la imagen de su Dios con “ ... ” y al semejante con ... actuando contra su fe.
+a) ironía - repugnancia
+b) adoración - veneración
+c) devoción - desprecio
+d) fe - piedad
+e) temor - rechazo
+(Respuesta: c)
+
+74. Es la paradoja de mi vida, pues cuando duermo sueño que soy tu ... pero al despertar sigo siendo tu ... .
+a) esposo - viuda
+b) dueño - esclavo
+c) esposo - amo
+d) cónyuge - dueña
+e) amante - devoto
+(Respuesta: b)
+
+75. Caían las ... del aguacero, y ... los pétalos de algunas flores primaverales.
+a) lluvias - deshojaban
+b) lágrimas - salían
+c) lloviznas - afloraban
+d) garúas - surgían
+e) gotas - florecían
+(Respuesta: e)
+
+76. El ... es un hombre enfermo a quien debemos ayudar y comprender para lograr su ... .
+a) leproso - sanación
+b) corrupto - rehabilitation
+c) adicto - curación
+d) alcohólico - recuperación
+e) ebrio - mal
+(Respuesta: d)
+
+77. A pesar del terremoto, en plena operación, el ... se man-tuvo ecuánime y logró ... al tumor.
+a) médico - extraer
+b) cirujano - extirpar
+c) galeno - operar
+d) doctor - cercenar
+e) especialista - sacar
+(Respuesta: b)
+
+78. La evolución se explica por el hecho de que una ... lleva consigo un cambio prácticamente ... en el individuo, pero observable en la especie con el tiempo.
+a) generación - imperceptible
+b) especie - inverosímil
+c) alcurnia - radical
+d) criatura - notoria
+e) prole - invisible
+(Respuesta: a)
+
+79. He visto en ... de mi abuelo, el brillo de la ... de quien ha vivido mucho tiempo.
+a) los ojos - experiencia
+b) los proyectos - intelligence
+c) las niñas - destreza
+d) los logros - experiencia
+e) las pupilas - razón
+(Respuesta: a)
+
+80. La acrobacia ... terminó en desgracia, aparentemente por ... de uno de los pilotos.
+a) circense - descuido
+b) aérea - negligencia
+c) teatral - necedad
+d) de aviación - osadía
+e) gimnástica - imprudencia
+(Respuesta: b)
+
+81. Lo que nos ofrece el ... es espacio: cierto ámbito para que el ... pueda respirar.
+a) campo - ganado
+b) matrimonio - marido
+c) arte - espíritu
+d) cuarto - estudiante
+e) jardín - jardinero
+(Respuesta: c)
+
+82. Nuestros dolores son siglos; nuestros placeres ... .
+a) minutos
+b) lívidos
+c) efímeros
+d) gratos
+e) buenos
+(Respuesta: c)
+
+83. La música es ... que llega al alma y despierta nuestros ... aún en momentos más ... .
+a) melodía - gustos - aburridos
+b) sonido - amores - solitarios
+c) pentagrama - suspiros – irónicos
+d) inspiración - sentimientos - insensibles
+e) mensajes - impulsos – tristes
+(Respuesta: d)
+
+84. El héroe antiguo era el que afrontaba la ... el héroe moderno es el que acepta la ... .
+a) derrota - derrota
+b) verdad - realidad
+c) injusticia - justicia
+d) muerte - vida
+e) razón - razón
+(Respuesta: d)
+
+85. Como el clima estaba tan ... los turistas ... al ... .
+a) insoportable - salieron - hotel
+b) borrascoso - viajaron - nevado
+c) inestable - buscaron - guía
+d) malo - regresaron - hostal
+e) bueno - salieron – jardín
+(Respuesta: d)
+
+86. Quizá la ... no sea sino ... que se divierte.
+a) soledad - tiempo
+b) comprensión - placer
+c) vejez - años
+d) teoría - práctica
+e) imaginación - inteligencia
+(Respuesta: e)
+
+87. .... oportunamente es un rasgo del hombre ... .
+a) Hablar - sincrónico
+b) Observar - indeciso
+c) Actuar - decidido
+d) Reír - gracioso
+e) Colaborar - servidor
+(Respuesta: c)
+
+88. A pesar de que el periodo de ... aún no había concluido, aquellos técnicos deshonestos se negaron en efectuar las (los) ... correspondientes.
+a) prueba - composturas
+b) garantía - compras
+c) vigencia - revisiones
+d) mantenimiento - pruebas
+e) garantía - arreglos
+(Respuesta: e)
+
+89. Las situaciones ... precisan muchas veces decisiones ... .
+a) extrechas - pacíficas
+b) críticas - arriesgadas
+c) límites - racionales
+d) comunes - ordinarias
+e) actuales - pasadas
+(Respuesta: b)
+
+90. Afirmó haber visto ... su vida entera en ese preciso instante en que estuvo a punto de ... .
+a) pasar - salvarse
+b) transcurrir - morir
+c) desperdiciar - drogarse
+d) evaluar - fallecer
+e) nostálgicamente - accidentarse
+(Respuesta: b)
+
+91. El ... más barato de reparar es generalmente el que recibe ... continuamente.
+a) auto - mantenimiento
+b) daño - atención
+c) radio - limpieza
+d) problema - solución
+e) cuadro - restauración
+(Respuesta: a)
+
+92. Cuando despertó, sintió su .... al extender el brazo confirmó su sensación: sí, se había ... .
+a) ausencia - ido
+b) malestar - distraído
+c) cuerpo - agachado
+d) dolor - curado
+e) soledad - aislado
+(Respuesta: a)
+
+93. Mucho más que ... , la duda revela ... .
+a) angustia - seguridad
+b) deseo - aflicción
+c) ignorancia - curiosidad
+d) ideas - sentimientos
+e) búsqueda - hallazgo
+(Respuesta: c)
+
+94. Si nuestra condición fuese verdaderamente ... , no sería necesario divertirnos para ... .
+a) humana - ser grandes
+b) feliz - estar alegres
+c) frágil - ser fuertes
+d) óptima - estar bien
+e) opulenta - saciarnos
+(Respuesta: b)
+
+95. A veces el apodo, lejos de ser un ... , se convierte en una forma más ... de aludir a alguien.
+a) cariño - grosera
+b) adjetivo - sustantiva
+c) símil - análoga
+d) agravio - efectiva
+e) vilipendio - condescendiente
+(Respuesta: d)
+
+96. ¿Quién se atreve a ... sin caer en lo absurdo, la .... de amar algo que nunca hemos visto?
+A sancionar - cuantía
+b) disuadir - negación
+c) afirmar - posibilidad
+d) cuestionar - negación
+e) verificar - actitud
+(Respuesta: c)
+
+97. La lectura de textos tiene que ....... a los alumnos a entender y ... .
+a) habituar - a criticar
+b) facilitar - a prolongar
+c) concretar - a disolver
+d) formar - a sancionar
+e) impactar - a comprender
+(Respuesta: a)
+
+98. El ... religioso es la fuerza que pone en ... a la masa y le impulsa a ... grandes faenas.
+A sistema - ascenso - rechazar
+b) convenio - polémica –
+c) sentimiento - movimiento – realizar
+d) procedimiento - determinación - manifestar
+e) precepto - penitencia – minimizar
+(Respuesta: c)
+
+99. La literatura no es pura ..., no admite leyes ... aunque sí tiene reglas normalmente ... .
+a) fantasía - incompletas – firmes
+b) escritura - comunes - selectas
+c) realidad - tajantes - flexibles
+d) forma - parciales - subjetivas
+e) lógica - absolutas – válidas
+(Respuesta: c)
+
+100. La acción sigue ... al pensamiento, como la ... del carro sigue a la ... del buey.
+a) rebelde - madera - cabeza
+b) firme - gasolina - pata
+c) dócil - rueda - fuerza
+d) sumisa - llanta - cabeza
+e) diferente - luz – mirada
+(Respuesta: c)
   `,
 
   "Ejemplo2 - Agrega tu banco2": `
