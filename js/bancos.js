@@ -1917,7 +1917,6 @@ d) idea- hallamos – llegaríamos
 e) observación – enfrentamos – llegamos
 (Respuesta: b)
 
-Usa el código con precaución.
 38. Las ciudades están llenándose con las corrientes ........ de habitantes de los campos que esperan encontrar una vida mejor en las áreas........
 a) campesinos – pobladas
 b) motivacionales – construidas
@@ -1925,6 +1924,7 @@ c) marginales - rurales
 d) migratorias – urbanas
 e) vagabundas - pobres
 (Respuesta: d)
+
 39. ¡Pero si no…! La bala le atravesó el … de parte a parte, con lo que su… fue instantánea) Por lo tanto, fue más un acto de caridad que de maldad.
 a) sufrió – cráneo - muerte
 b) sintió - orificio - reacción
