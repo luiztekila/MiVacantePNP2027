@@ -2399,7 +2399,7 @@ e) impactar - a comprender
 
 98. El ... religioso es la fuerza que pone en ... a la masa y le impulsa a ... grandes faenas.
 a) sistema - ascenso - rechazar
-b) convenio - polémica –
+b) convenio - polémica – aceptar
 c) sentimiento - movimiento – realizar
 d) procedimiento - determinación - manifestar
 e) precepto - penitencia – minimizar
