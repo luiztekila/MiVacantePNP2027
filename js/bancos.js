@@ -1998,7 +1998,7 @@ e) terrorismo - escudar
 (Respuesta: a)
 
 48. Conocer todo aquello que los antiguos sabían sobre el mundo antes que nosotros puede convertirnos en ........ pero no necesariamente en ........
-A filósofos - pensadores
+a) filósofos - pensadores
 b) maestros - educadores
 c) investigadores - peritos
 d) historiadores - sabios
@@ -2382,7 +2382,7 @@ e) vilipendio - condescendiente
 (Respuesta: d)
 
 96. ¿Quién se atreve a ... sin caer en lo absurdo, la .... de amar algo que nunca hemos visto?
-A sancionar - cuantía
+a) sancionar - cuantía
 b) disuadir - negación
 c) afirmar - posibilidad
 d) cuestionar - negación
@@ -2398,7 +2398,7 @@ e) impactar - a comprender
 (Respuesta: a)
 
 98. El ... religioso es la fuerza que pone en ... a la masa y le impulsa a ... grandes faenas.
-A sistema - ascenso - rechazar
+a) sistema - ascenso - rechazar
 b) convenio - polémica –
 c) sentimiento - movimiento – realizar
 d) procedimiento - determinación - manifestar
