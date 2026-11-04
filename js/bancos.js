@@ -2422,14 +2422,807 @@ e) diferente - luz – mirada
 (Respuesta: c)
   `,
 
-  "Ejemplo2 - Agrega tu banco2": `
-1. Esta es una pregunta de ejemplo. Reemplaza este banco por tus propias preguntas.
-a) Alternativa A
-b) Alternativa B
-c) Alternativa C
-d) Alternativa D
-e) Alternativa E
+  "RV - Sinónimos": `
+1. TITUBEAR
+a) triturar 
+b) oscilación 
+c) dudar 
+d) decir 
+e) desdecir 
+(Respuesta: c)
+
+2. TRABUCAR
+a) aclarar
+b) evidenciar 
+c) trastocar 
+d) comunicar 
+e) obliterar 
+(Respuesta: c)
+
+3. TRAJÍN
+a) cansancio 
+b) acarreo 
+c) trocar 
+d) circunvalar 
+e) traer 
+(Respuesta: b)
+
+4. TRANSIGIR 
+a) deferir 
+b) diferir 
+c) rezagar 
+d) odiar 
+e) efugio 
 (Respuesta: a)
+
+5. TRAPACERÍA
+a) tapicería 
+b) engaño 
+c) lacería 
+d) lacerar 
+e) amalgamar 
+(Respuesta: b)
+
+6. TRIVIAL
+a) evidente 
+b) lerdo 
+c) insustancial 
+d) vital 
+e) filial 
+(Respuesta: c)
+
+7. TRUHÁN 
+a) vate 
+b) bufón 
+c) pillo 
+d) perro 
+e) belicoso 
+(Respuesta: c)
+
+8. TURBA
+a) turbante 
+b) tropiezo 
+c) obstáculo 
+d) curda 
+e) horda 
+(Respuesta: e)
+
+9. UMBRÍA
+a) sombra
+b) umbral 
+c) cénit 
+d) diferendo 
+e) varonil 
+(Respuesta: a)
+
+10. UMBRAL 
+a) dintel
+b) entrada 
+c) cilicio 
+d) cimbel 
+e) puerta 
+(Respuesta: b)
+
+11. EXPELER 
+a) aceptar 
+b) titubear 
+c) evacuar 
+d) afrontar 
+e) gozar 
+(Respuesta: c)
+
+12. ESOTÉRICO 
+a) común 
+b) ramplón  
+c) conocido 
+d) repuesto 
+e) secreto 
+(Respuesta: e)
+
+13. ALADO
+a) albaquía
+b) albo 
+c) raudo 
+d) alambicado 
+e) baladro 
+(Respuesta: c)
+
+14. PAVONEAR 
+a) Coercer 
+b) Delinear
+c) Barruntar 
+d) Presumir 
+e) Barrenar 
+(Respuesta: d)
+
+15. PERTINACIA 
+a) sumisión 
+b) agerasia 
+c) adefagia
+d) obediencia 
+e) obstinación 
+(Respuesta: e)
+
+16. PERVERTIR
+a) invertir 
+b) convenir 
+c) depravar 
+d) prevaricar 
+e) derogar 
+(Respuesta: c)
+
+17. PIGNORAR
+a) empeñar 
+b) embadurnar 
+c) pensar 
+d) prorratear 
+e) auscultar 
+(Respuesta: a)
+
+18. PREBENDA
+a) hado 
+b) sinecura 
+c) vestimenta 
+d) prestigiar 
+e) reputar 
+(Respuesta: b)
+
+19. PRESAGIAR 
+a) desventurar 
+b) confrontar 
+c) vaticinar 
+d) resarcir 
+e) nominar 
+(Respuesta: c)
+
+20. PRERROGATIVA 
+a) desprecio 
+b) invectiva 
+c) arrogancia 
+d) ventaja
+e) infundio 
+(Respuesta: d)
+
+21. PELIAGUDO 
+a) obvio 
+b) exotérico 
+c) complicado 
+d) ambivalente 
+e) fácil 
+(Respuesta: c)
+
+22. PRESBÍTERO
+a) cementerio 
+b) sacerdote 
+c) acólito
+d) ángel 
+e) pateta 
+(Respuesta: b)
+
+23. PROSCRIPCIÓN 
+a) prescripción 
+b) destierro 
+c) indulto 
+d) discusión 
+e) llegada 
+(Respuesta: b)
+
+24. ARISTARCO 
+a) aristocrático 
+b) crítico 
+c) pendiente
+d) plañidero 
+e) platónico
+(Respuesta: b)
+
+25. ARRUMACO 
+a) arrinconar 
+b) artero 
+c) carantoña 
+d) arruinado 
+e) brumoso 
+(Respuesta: c)
+
+26. ASTUCIA 
+a) zalamería 
+b) zalema 
+c) candidez 
+d) artería 
+e) lagotería 
+(Respuesta: d)
+
+27. ARTICULACIÓN
+a) artilugio 
+b) arúspice 
+c) artífice 
+d) coyuntura 
+e) emulación 
+(Respuesta: d)
+
+28. ADORNAR
+a) orlar 
+b) horadar 
+c) gulusmear
+d) afear 
+e) almibarar 
+(Respuesta: a)
+
+29. CONSENTIR 
+a) presentir 
+b) desdecir 
+c) acceder 
+d) precaver 
+e) adunar 
+(Respuesta: c)
+
+30. CIRCUNLOQUIO 
+a) círculo 
+b) cimbel 
+c) diferir 
+d) ambages 
+e) acartonado 
+(Respuesta: d)
+
+31. BAMBOLLA 
+a) bambalina 
+b) balumba 
+c) baqueano 
+d) ampolla 
+e) pompa 
+(Respuesta: e)
+
+32. ACOSAR 
+a) adargar 
+b) acechar 
+c) intuir 
+d) adherir 
+e) amoscar
+(Respuesta: b)
+
+33. APRENSIVO
+a) receloso 
+b) coactivo 
+c) cazurro 
+d) lábil 
+e) afable 
+(Respuesta: a)
+
+34. ÁLGIDO 
+a) albino 
+b) tórrido 
+c) albur 
+d) gélido
+e) etéreo 
+(Respuesta: d)
+
+35. ALUBIA 
+a) vaina 
+b) abulia 
+c) adminículo 
+d) anegar 
+e) fríjol 
+(Respuesta: e)
+
+36. ALBACEA 
+a) albahaca 
+b) amanecer 
+c) testamentario 
+d) bitango 
+e) ofensivo 
+(Respuesta: c)
+
+37. CRUELDAD 
+a) lenidad 
+b) sayo 
+c) cancerbero 
+d) mohín 
+e) sevicia 
+(Respuesta: e)
+
+38. FÁMULO 
+a) báquico 
+b) sedicioso 
+c) recogido 
+d) criado 
+e) nictálope
+(Respuesta: d)
+
+39. COMPASIÓN
+a) ardor 
+b) feracidad 
+c) conmiseración 
+d) dicterio 
+e) lealtad 
+(Respuesta: c)
+
+40. AVIVAR 
+a) alelar 
+b) cicatería 
+c) abrazar 
+d) atezar 
+e) enardecer 
+(Respuesta: e)
+
+41. DEVASTAR
+a) alabar 
+b) burilar 
+c) pulir 
+d) aumentar 
+e) arruinar 
+(Respuesta: e)
+
+42. BARRICA 
+a) borrica 
+b) barruntar 
+c) árnica 
+d) barril 
+e) barrera 
+(Respuesta: d)
+
+43. BARTOLA 
+a) báratro 
+b) barrenar 
+c) trola 
+d) ahínco 
+e) descuido  
+(Respuesta: d)
+
+44. ECLOSIÓN
+a) brote 
+b) explosión
+c) dilapidación 
+d) inmersión 
+e) disgregación 
+(Respuesta: a)
+
+45. BALANDRO 
+a) palurdo 
+b) vasto 
+c) meandro 
+d) antro 
+e) embarcación 
+(Respuesta: e)
+
+46. UFANO
+a) esotérico 
+b) fatuo
+c) melancólico 
+d) macilento 
+e) zaborro 
+(Respuesta: b)
+
+47. FUTESA
+a) sine cua non 
+b) bicoca 
+c) sacerdote 
+d) acólito 
+e) sinfín 
+(Respuesta: b)
+
+48. COMPULSAR
+a) impulsar 
+b) relegar 
+c) confrontar 
+d) desanimar 
+e) convaleciente 
+(Respuesta: c)
+
+49. CONATO 
+a) incendio 
+b) concedido 
+c) connubio 
+d) tentativa 
+e) efluvio 
+(Respuesta: d)
+
+50. CHABACANO 
+a) vasto 
+b) gandul 
+c) chabola 
+d) chulo 
+e) basto 
+(Respuesta: e)
+
+51. CHUNGA
+a) chúcaro 
+b) clima 
+c) epítome 
+d) broma 
+e) epitafio 
+(Respuesta: d)
+
+52. DÁDIVA
+a) dandy 
+b) adalid 
+c) avieso 
+d) diva 
+e) regalo 
+(Respuesta: e)
+
+53. DÉBITO
+a) pago 
+b) remanente 
+c) deuda 
+d) presupuesto 
+e) dinero 
+(Respuesta: c)
+
+54. COMPENDIO 
+a) Interpretación
+b) Epitome
+c) Concordia 
+d) Derrocha
+e) Coloquio
+(Respuesta: b)
+
+55. ACIDIA 
+a) Menosprecio 
+b) Caricia 
+c) Abulia 
+d) Carisma
+e) Ósculo
+(Respuesta: c)
+
+56. IRONÍA 
+a) Culpa
+b) Capricho 
+c) Rencilla
+d) Sarcasmo
+e) Desdicha
+(Respuesta: d)
+
+57. PRÓDIGO 
+a) Exiguo 
+b) Derrochador  
+c) Ingrato 
+d) Egoísta
+e) Arrepentido
+(Respuesta: b)
+
+58. ESCUETO 
+a) Amplio 
+b) Angosto 
+c) Breve
+d) Indómito  
+e) Acéfalo 
+(Respuesta: c)
+
+59. ENCANDILAR
+a) Alumbrar
+b) Titilar
+c) Traspasar
+d) Desperdigar
+e) Embelesar
+(Respuesta: e)
+
+60. SAPIENCIA 
+a) Sabor 
+b) Sabiduría 
+c) Querencia 
+d) Dilección
+e) Idilio 
+(Respuesta: b)
+
+61. OMINOSO 
+a) Pesado 
+b) Enorme
+c) Humillante 
+d) Mohoso 
+e) Dilatado  
+(Respuesta: c)
+
+62. TENUE
+a) Brillante 
+b) Débil
+c) Mezclado
+d) Morboso 
+e) Lívido    
+(Respuesta: b)
+
+63. EXULTANTE 
+a) Iracundo 
+b) Aturdido 
+c) Dichoso 
+d) Obcecado 
+e) Irritante
+(Respuesta: c)
+
+64. PERICLITAR
+a) Decaer
+b) Ladrar
+c) Vociferar
+d) Enardecer
+e) Aclamar
+(Respuesta: a)
+
+65. ACERVO
+a) Amargo 
+b) Despiadado 
+c) Conjunto 
+d) Música
+e) Garante
+(Respuesta: c)
+
+66. IMPLÍCITO 
+a) Explícito
+b) Tácito 
+c) Callado 
+d) Capcioso 
+e) Imantado  
+(Respuesta: c)
+
+67. ABOMINAR 
+a) Respetar
+b) Ignorar
+c) Detestar
+d) Aceptar
+e) Adular 
+(Respuesta: c)
+
+68. LUCTUOSO 
+a) Horroroso 
+b) Trágico 
+c) Chasco 
+d) Meticuloso 
+e) Mezquino 
+(Respuesta: b)
+ 
+69. SINO 
+a) Aunque 
+b) Destino 
+c) Afirmativo 
+d) Pero 
+e) Aproximado 
+(Respuesta: b)
+
+70. INVETERADO 
+a) Antiguo 
+b) Estable 
+c) Acomedido 
+d) Nómade
+e) Transitorio 
+(Respuesta: a)
+
+71. PUTATIVO 
+a) Deshonesto 
+b) Bellaco 
+c) Adoptivo 
+d) Bandolero 
+e) Corrompido 
+(Respuesta: c)
+
+72. DETRIMENTRO  
+a) Apretujón 
+b) Deterioro 
+c) Experimento 
+d) Retraso 
+e) Colisión 
+(Respuesta: b)
+
+73. VENAL 
+a) Arterial
+b) Sanguíneo
+c) Cardíaco 
+d) Sobornable 
+e) Circulatorio 
+(Respuesta: d)
+ 
+74. IMPETRAR
+a) Irrumpir 
+b) Suplicar
+c) Inscribir 
+d) Preludiar
+e) Postular 
+(Respuesta: b)
+
+75. TUMEFACTO 
+a) Anonadado 
+b) Macilento 
+c) Lacio 
+d) Estoico 
+e) Hinchado 
+(Respuesta: e)
+
+76. OSTRACISMO
+a) Destierro 
+b) Requisito
+c) Exequias
+d) Saqueo 
+e) Hipocresía 
+(Respuesta: a)
+
+77. URENTE 
+a) ardiente 
+b) esquilmar
+c) canoro 
+d) cansino 
+e) abrazar 	
+(Respuesta: a)
+
+78. ÁULICO 
+a) ufano 
+b) palaciego 
+c) enervado 
+d) escarnio 
+e) estentóreo
+(Respuesta: b)
+
+79. PRESBÍTERO 
+a) tornadizo 
+b) fucilar 
+c) lívido 
+d) capellán 
+e) lacayo   	
+(Respuesta: d)
+
+80. MUNIFICENTE 
+a) connubio 
+b) periplo
+c) gehena
+d) longánimo 
+e) azuzar    	
+(Respuesta: d)
+
+81.	DESDORO  
+a) fruición
+b) indigno 
+c) sorna
+d) tedio 
+e) deshonra   	
+(Respuesta: e)
+
+82. BAQUIANO  
+a) paroxismo 
+b) experto 
+c) gaznápiro
+d) estruendo 
+e) ilustrado     
+(Respuesta: b)
+
+83. PATRAÑA
+a) embuste 
+b) pavor
+c) pirronismo
+d) infidelidad
+e) denuesto     
+(Respuesta: a)
+
+84. VENIAL 
+a) venia
+b) meollo 
+c) señero 
+d) leve
+e) sanguíneo     
+(Respuesta: d)
+
+85. ARISTARCO 
+a) aristocrático 
+b) crítico 
+c) pendiente
+d) plañidero 
+e) platónico
+(Respuesta: b)
+
+
+86. ARRUMACO 
+a) arrinconar 
+b) artero
+c) carantoña 
+d) arruinado
+e) brumoso 
+(Respuesta: c)
+
+87. ASTUCIA 
+a) zalamería
+b) zalema
+c) candidez 
+d) artería
+e) lagotería 
+(Respuesta: d)
+
+88. ARTICULACIÓN
+a) artilugio 
+b) arúspice
+c) artífice 
+d) coyuntura
+e) emulación 
+(Respuesta: d)
+
+89. ADORNAR
+a) orlar
+b) horadar
+c) gulusmear
+d) afear
+e) almibarar 
+(Respuesta: a)
+
+90. CONSENTIR 
+a) presentir
+b) desdecir 
+c) acceder 
+d) precaver
+e) adunar 
+(Respuesta: c)
+
+91. CIRCUNLOQUIO 
+a) círculo 	
+b) cimbel
+c) diferir 
+d) ambages
+e) acartonado 
+(Respuesta: d)
+
+92. BAMBOLLA 
+a) bambalina
+b) balumba
+c) baqueano 
+d) ampolla
+e) pompa 
+(Respuesta: e)
+
+93. ACOSAR 
+a) adargar
+b) acechar
+c) intuir 
+d) adherir
+e) amoscar
+(Respuesta: b)
+
+94. APRENSIVO
+a) receloso 
+b) coactivo
+c) cazurro 
+d) lábil
+e) afable 
+(Respuesta: a)
+
+95. ÁLGIDO 
+a) albino 
+b) tórrido 
+c) albur 
+d) gélido
+e) etéreo 
+(Respuesta: d)
+
+96.	ALUBIA 
+a) vaina
+b) abulia 
+c) adminículo 
+d) anegar 
+e) fríjol 
+(Respuesta: e)
+
+97. ALBACEA 
+a) albahaca
+b) amanecer
+c) bitango
+d) testamentario
+e) ofensivo 
+(Respuesta: d)
+
+98. CRUELDAD 
+a) lenidad
+b) sayo 
+c) cancerbero 
+d) mohín 
+e) sevicia 
+(Respuesta: e)
+
+99. FÁMULO 
+a) báquico
+b) sedicioso
+c) recogido 
+d) criado
+e) nictálope
+(Respuesta: d)
+
+100. COMPASIÓN
+a) ardor
+b) feracidad
+c) dicterio
+d) conmiseración
+e) lealtad
+(Respuesta: d)
 `,
 
   "Ejemplo3 - Agrega tu banco": `
