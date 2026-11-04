@@ -16,7 +16,7 @@
 // El programa las procesa automáticamente.
 
 const BANCOS = {
-  Geografía: `
+  Geografía 1: `
 1. Ciencia que estudia la interrelación entre el hombre y su medio geográfico:
 a) Geodesia
 b) Geografía
@@ -2422,7 +2422,7 @@ e) diferente - luz – mirada
 (Respuesta: c)
   `,
 
-  "RV - Sinónimos": `
+"RV - Sinónimos": `
 1. TITUBEAR
 a) triturar 
 b) oscilación 
