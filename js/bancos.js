@@ -818,7 +818,7 @@ e) Bosques de Protección
 (Respuesta: b)
 `,
 
-  "Historia Universal": `
+  Historia Universal: `
 1. La ciencia auxiliar de la historia que se encarga del estudio, análisis e interpretación de las inscripciones sobre monumentos o restos materiales duros es la:
 a) Paleografía
 b) Heráldica
@@ -1620,7 +1620,7 @@ e) Indira Gandhi
 (Respuesta: b)
 `,
 
-  "RV - Oraciones incompletas": `
+  RV_Oraciones_incompletas: `
 01. El desarrollo del lenguaje y del pensamiento se implican mutuamente; en ese sentido, el lenguaje debe ser ........ con el cual el maestro ........ la inteligencia y el pensamiento del niño.
 a) el mejor medio - programe
 b) el importante objeto - eduque
@@ -2421,16 +2421,8 @@ d) sumisa - llanta - cabeza
 e) diferente - luz – mirada
 (Respuesta: c)
   `,
-  "Ejemplo3 - Agrega tu banco": `
-1. Esta es una pregunta de ejemplo. Reemplaza este banco por tus propias preguntas.
-a) Alternativa A
-b) Alternativa B
-c) Alternativa C
-d) Alternativa D
-e) Alternativa E
-(Respuesta: a)
-  `,
-"RV - Sinónimos": `
+ 
+RV_Sinónimos: `
 1. TITUBEAR
 a) triturar 
 b) oscilación 
