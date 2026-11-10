@@ -2421,7 +2421,15 @@ d) sumisa - llanta - cabeza
 e) diferente - luz – mirada
 (Respuesta: c)
   `,
-
+  "Ejemplo3 - Agrega tu banco": `
+1. Esta es una pregunta de ejemplo. Reemplaza este banco por tus propias preguntas.
+a) Alternativa A
+b) Alternativa B
+c) Alternativa C
+d) Alternativa D
+e) Alternativa E
+(Respuesta: a)
+  `,
 "RV - Sinónimos": `
 1. TITUBEAR
 a) triturar 
@@ -2709,7 +2717,7 @@ b) amanecer
 c) testamentario 
 d) bitango 
 e) ofensivo 
-(Respuesta: c)
+(Respuesta: d)
 
 37. CRUELDAD 
 a) lenidad 
