@@ -16,7 +16,7 @@
 // El programa las procesa automáticamente.
 
 const BANCOS = {
-  Geografía 1: `
+  "Geografía 1": `
 1. Ciencia que estudia la interrelación entre el hombre y su medio geográfico:
 a) Geodesia
 b) Geografía
@@ -818,7 +818,7 @@ e) Bosques de Protección
 (Respuesta: b)
 `,
 
-  Historia Universal: `
+  "Historia Universal": `
 1. La ciencia auxiliar de la historia que se encarga del estudio, análisis e interpretación de las inscripciones sobre monumentos o restos materiales duros es la:
 a) Paleografía
 b) Heráldica
@@ -1620,7 +1620,7 @@ e) Indira Gandhi
 (Respuesta: b)
 `,
 
-  RV_Oraciones_incompletas: `
+  "RV Oraciones_incompletas:" `
 01. El desarrollo del lenguaje y del pensamiento se implican mutuamente; en ese sentido, el lenguaje debe ser ........ con el cual el maestro ........ la inteligencia y el pensamiento del niño.
 a) el mejor medio - programe
 b) el importante objeto - eduque
@@ -2422,7 +2422,7 @@ e) diferente - luz – mirada
 (Respuesta: c)
   `,
  
-RV_Sinónimos: `
+"RV Sinónimos": `
 1. TITUBEAR
 a) triturar 
 b) oscilación 
