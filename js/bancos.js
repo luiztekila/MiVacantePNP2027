@@ -3233,5 +3233,5 @@ c) Alternativa C
 d) Alternativa D
 e) Alternativa E
 (Respuesta: a)
-  `,
+  `
 };
