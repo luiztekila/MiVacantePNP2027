@@ -3224,6 +3224,16 @@ e) lealtad
 (Respuesta: d)
 `,
 
+  "Antónimos": `
+1. Faltan preguntas.
+a) Alternativa A
+b) Alternativa B
+c) Alternativa C
+d) Alternativa D
+e) Alternativa E
+(Respuesta: a)
+  `,
+
   "Ejemplo3 - Agrega tu banco": `
 1. Esta es una pregunta de ejemplo. Reemplaza este banco por tus propias preguntas.
 a) Alternativa A
