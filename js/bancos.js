@@ -1619,7 +1619,7 @@ d) Ali Jinnah
 e) Indira Gandhi
 (Respuesta: b)
 `,
-  "Oraciones_incompletas": `
+  "Oraciones_incomple": `
 01. El desarrollo del lenguaje y del pensamiento se implican mutuamente; en ese sentido, el lenguaje debe ser ........ con el cual el maestro ........ la inteligencia y el pensamiento del niño.
 a) el mejor medio - programe
 b) el importante objeto - eduque
